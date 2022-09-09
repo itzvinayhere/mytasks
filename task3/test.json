@@ -1,0 +1,26 @@
+{
+    "john": {
+        "age": 27,
+        "sex": "male",
+        "languageproficiency": {
+            "english": "high",
+            "french": "high"
+        }
+    },
+    "meg": {
+        "age": 23,
+        "sex": "female",
+        "languageproficiency": {
+            "english": "high",
+            "french": "low"
+        }
+    },
+    "joy": {
+        "age": 32,
+        "sex": "male",
+        "languageproficiency": {
+            "english": "low",
+            "french": "low"
+        }
+    }
+}
